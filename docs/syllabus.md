@@ -77,31 +77,19 @@ Consult hours:
 |Technical requirements | A laptop computer is required for students taking this course. |
 
 
- 
-
-
-
- 
-
-
 ### Learning Outcomes
 
 
 - Students will achieve proficiency in course topics
 - Students will apply practical skills to real-world problems
 - Students will communicate their work clearly in both written and oral forms
- 
 
 
 ## Assessment
- 
+
 - Regular quizzes and assessments
 - Multiple projects
 - Assessments may be done individually or in groups as specified
-
-
- 
-
 
 
 Projects:
