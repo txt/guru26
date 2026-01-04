@@ -1,6 +1,14 @@
-MIT License
+<p align="center">
+  <a href="https://github.com/txt/guru26/blob/main/README.md#top"><img src="https://img.shields.io/badge/Home-%23ff5733?style=flat-square&logo=home&logoColor=white" /></a>
+  <a href="/docs/syllabus.md#top"><img src="https://img.shields.io/badge/Syllabus-%230055ff?style=flat-square&logo=openai&logoColor=white" /></a>
+  <a href="/LICENSE.md"><img src="https://img.shields.io/badge/©%20timm%202026-%234b4b4b?style=flat-square&logoColor=white" /></a></p>
+<h1 align="center">:cyclone: Guru26</h1>
 
-Copyright (c) 2026 textual stuff
+
+# MIT License
+
+
+Copyright (c) 2026 Tim Menzies
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
