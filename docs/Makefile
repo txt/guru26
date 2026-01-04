@@ -1,4 +1,4 @@
-SHELL:= /bin/bash#
+SHELL := /bin/bash
 .SILENT: # no output
 
 help : Makefile ## print help
@@ -22,8 +22,8 @@ all: ## save all to Github
 	echo "$@ ... " 
 	@($(ONE);  $(TWOPLUS)) > .tmp; mv .tmp $@
 
-LOUD = \033[1;34m#
-SOFT = \033[0m#
+LOUD := \033[1;34m
+SOFT := \033[0m
 
 push: ## commit to main
 	- echo -en "$(LOUD)Why this push? $(SOFT)" ;  read x ; git commit -am "$$x" ;  git push
