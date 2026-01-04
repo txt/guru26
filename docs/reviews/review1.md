@@ -5,11 +5,49 @@
 <h1 align="center">Guru26</h1>
 <p align="center"><em>Course repository template</em></p>
 
-  
- <div align=center>
 
-| 📅 Week of... | 🎓 Lecture | 🛠️ Submission | 📝 Review |
-|:-------------:|:----------:|:--------------:|:---------:|
-| TBD | TBD | TBD | [1](docs/reviews/review1.md) |
 
-</div>
+<hr>
+
+
+# Review Week 1
+
+
+## Glossary  
+
+
+1. **Topic 1**  
+   a. Subtopic 1a  
+   b. Subtopic 1b  
+
+
+2. **Topic 2**  
+   a. Subtopic 2a  
+   b. Subtopic 2b  
+
+
+3. **Topic 3**  
+   a. Subtopic 3a  
+   b. Subtopic 3b  
+
+
+## Key Takeaways
+
+
+- Important point 1
+- Important point 2
+- Important point 3
+
+
+## Review Questions
+
+
+1. Question 1?
+2. Question 2?
+3. Question 3?
+
+
+## Additional Notes
+
+
+Any additional information or clarifications for the week's content.
